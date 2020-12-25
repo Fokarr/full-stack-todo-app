@@ -17,12 +17,9 @@ A full stack application to store and add new ToDos
   * [] Setup Express App
   * [] Setup Not Found and Error Middlewares
 * [x] Model DB
-  * What data will we store?
 * [] Setup Mongoose Model(s)
 * [] POST / todos
-  * Create a new todo entry
 * [] GET / todos
-  * List all todos entries
 * [] Setup Client
 * [] Create Form to add a new todo
 * [] Creat Form to change to do
