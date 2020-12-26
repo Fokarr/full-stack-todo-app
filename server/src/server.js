@@ -5,7 +5,6 @@ const app = express()
 
 app.use(express.json())
 
-
 app.get("/", (req, res) => {
     console.log("You are on the homepage")
     res.send({
